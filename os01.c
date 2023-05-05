@@ -1,6 +1,3 @@
-#include <stdio.h>
-#include <conio.h>
-#define max 30
 int main()
 {
 	int n, i, pn[max], at[max], bt[max], wt[max], tat[max], start[max], finish[max];
